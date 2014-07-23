@@ -7,7 +7,8 @@
 ##  3.  assigns descriptive activity names to name the activities in the data set;  ##
 ##  4.  labels the data set with descriptive variable names;                        ##
 ##  5.  creates a second, independent tidy data set with the average of each        ##
-##      variable for each activity and each subject.                                ##
+##      variable for each activity and each subject;                                ##
+##  6.  writes the tidy data to a file "tidyData.txt".                              ##
 ##                                                                                  ##
 ######################################################################################
 
