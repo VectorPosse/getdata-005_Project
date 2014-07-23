@@ -1,16 +1,12 @@
 # Course Project
 ## Coursera Data Science Specialization
 ## "Getting and Cleaning Data"
-
 ___
 
 # README.md
-
 ___
 
-
 This repo is located at <https://github.com/VectorPosse/getdata-005_Project>
-
 ___
 
 The data for this project was collected from the accelerometers in the Samsung Galaxy S smartphone.<sup><a href="#fn1" id="ref1">1</a></sup> A full description is available at the site where the data was obtained: 
