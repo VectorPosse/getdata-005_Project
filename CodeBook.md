@@ -32,12 +32,12 @@ The UCI HAR Dataset folder contains the following items:
 
     This file identifies the six types of activities:
     
-    1. WALKING
-    2. WALKING_UPSTAIRS
-    3. WALKING_DOWNSTAIRS
-    4. SITTING
-    5. STANDING
-    6. LAYING
+1. WALKING
+2. WALKING_UPSTAIRS
+3. WALKING_DOWNSTAIRS
+4. SITTING
+5. STANDING
+6. LAYING
 
 *   <pre>features.txt</pre>
 
